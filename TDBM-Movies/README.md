@@ -1,14 +1,4 @@
 # TDBM-Movies
->Udacity Data Analyst Degree - Project I
+Udacity Data Analyst Degree - Project II
 
-This data set contains informationabout 10,000 movies collected fromThe Movie Database (TMDb),including user ratings and revenue.● Certain columns, like ‘cast’and ‘genres’, contain multiplevalues separated by pipe (|)characters.
-● There are some odd characters
-in the ‘cast’ column. Don’t worry
-about cleaning them. You can
-leave them as is.
-● The final two columns ending
-with “_adj” show the budget and
-revenue of the associated movie
-in terms of 2010 dollars,
-accounting for inflation over
-time.
+This data set contains informationabout 10,000 movies collected fromThe Movie Database (TMDb), including user ratings and revenue. Certain columns, like ‘cast’and ‘genres’, contain multiplevalues separated by pipe (|) characters. There are some odd characters in the ‘cast’ column. Don’t worry about cleaning them. You can leave them as is. The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation overtime.
