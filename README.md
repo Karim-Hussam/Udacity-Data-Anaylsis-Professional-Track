@@ -7,11 +7,11 @@ In this project, I will explore data related to bike share systems for three maj
 ## What Software Do I Need?
 To complete this project, i'll require the following softwares:
 
-*Python
-*A text editor, like Sublime or Atom
-*A terminal application
-*The Datasets
-*The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months *of 2017 for all three cities. The data files for all three cities contain the same core six columns:
+>Python
+>A text editor, like Sublime or Atom
+>A terminal application
+>The Datasets
+>The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months >of 2017 for all three cities. The data files for all three cities contain the same core six columns:
 
 Start Time
 End Time
