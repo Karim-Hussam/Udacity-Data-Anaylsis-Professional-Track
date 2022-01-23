@@ -35,4 +35,6 @@ The Chicago and New York City files also have the following two columns:
 >Birth Year
 
 ### Data
-[All the files](https://www.kaggle.com/abdallahmohamedamin/explore-us-bikeshare-data/data?select=chicago.csv)
+[Chicago](https://www.kaggle.com/karimhussam/bikesharedatasets?select=chicago.csv)
+[New York City](https://www.kaggle.com/karimhussam/bikesharedatasets?select=new_york_city.csv)
+[Washington](https://www.kaggle.com/karimhussam/bikesharedatasets?select=washington.csv)
