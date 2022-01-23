@@ -12,7 +12,7 @@ To complete this project, i'll require the following softwares:
 >A text editor, like Sublime or Atom
 >
 >A terminal application
->
+
 ## The Datasets
 The datasets provided by Motivate, a bike share system provider in the US, contains randomly selected data for the first six months of 2017 for all three cities. The data files for all three cities contain the same core six columns:
 
@@ -33,3 +33,6 @@ The Chicago and New York City files also have the following two columns:
 >Gender
 >
 >Birth Year
+
+### Data
+>[All the files]{https://video.udacity-data.com/topher/2021/May/6094a7cc_all-project-files/all-project-files.zip}
